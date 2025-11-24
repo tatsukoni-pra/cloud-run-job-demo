@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Git
+.git/
+.gitignore
+
+# Other
+claude.md
+build_push.sh
+README.md
