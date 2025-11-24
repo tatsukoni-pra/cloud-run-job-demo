@@ -1,0 +1,11 @@
+# Environment files
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# other
+claude.md
+build_push.sh
